@@ -6,7 +6,7 @@ It's Raffaele Bussolotto here! You can call me either Raffa or "Emo Viking Blond
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduated in Computer Engineering at Univerità degli Studi di Padova
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🍇 Turning my parents' winery into a 3.0 work enviroment
+&nbsp;&nbsp;&nbsp;&nbsp; 🍇 Turning my parents' winery into a 3.0 work environment
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🌄 On the way to lead my hometown Cinto Euganeo
 
