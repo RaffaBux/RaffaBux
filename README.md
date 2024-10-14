@@ -10,9 +10,11 @@ It's Raffaele Bussolotto here! You can call me either Raffa or "Emo Viking Blond
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🧙 Sci-fi and fantasy genre lover 
 
-## ⌨️ Currently working on
+## ⌨️ Currently
 
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 [Spencer](https://github.com/RaffaBux/Spencer), so you won't forget to add that item to the shopping list anymore!
+&nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 part of the [Harmonic Laboratories]([https://github.com/organization-name](https://github.com/HarmonicLabs) dev team!
+
+&nbsp;&nbsp;&nbsp;&nbsp; 📝 working on [Spencer](https://github.com/RaffaBux/Spencer) to make sure you'll never forget to add items to the shopping list again!!
 
 ## 🛠️ Tools I worked with
 <div>
@@ -58,7 +60,7 @@ It's Raffaele Bussolotto here! You can call me either Raffa or "Emo Viking Blond
 
 ## 💻 Projects I'm proud of
 
-* [Parents' winery self cooling system app](https://github.com/RaffaBux/Vigna38ValvesApp)
+* [Vooler38, my parents' winery self cooling system app](https://github.com/RaffaBux/Vigna38ValvesApp)
 * [Armtance, a possible blockchain application](https://github.com/RaffaBux/Armtance)
 
 ## 👇 You can find me here
