@@ -12,9 +12,9 @@ It's Raffaele Bussolotto here! You can call me either Raffa or "Emo Viking Blond
 
 ## ⌨️ Currently
 
-&nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 part of the [Harmonic Laboratories](https://github.com/HarmonicLabs) dev team!
+&nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 Working as part of the [Harmonic Laboratories](https://github.com/HarmonicLabs) dev team!
 
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 working on [Spencer](https://github.com/RaffaBux/Spencer) to make sure you'll never forget to add items to the shopping list again!!
+&nbsp;&nbsp;&nbsp;&nbsp; 📝 Developing [Spencer](https://github.com/RaffaBux/Spencer) (to be sure you will never forget again to add items to the shopping list !!)
 
 ## 🛠️ Tools I worked with
 <div>
