@@ -16,7 +16,7 @@ It's Raffaele Bussolotto here! You can call me either Raffa or "Emo Viking Blond
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 Seeking my place in this World of Technologies!
 
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer)
+&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), to save your time at the supermarket
 
 ## 🛠️ Tools I worked with
 <div>
