@@ -1,6 +1,6 @@
 # Yo folk 🤙
 
-It's Raffaele Bussolotto here! People call me either Raffa or "Blonde Emo Viking Ninja Pirate", both are valid nicknames but if I were you I would choose Raffa for convenience 😎
+It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pirate", both are valid nicknames but if I were you I would choose Raffa for convenience 😎
 
 ## 🧐 To know me better
 
