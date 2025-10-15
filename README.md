@@ -24,6 +24,7 @@ It's Raffaele Bussolotto here! People call me either Raffa or "Blonde Emo Viking
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/12114/12114224.png" title="Cardano" alt="Cardano" width="40" height="40"/>&nbsp;
   <img src="https://www.hatchcompany.ca/wp-content/uploads/2019/01/Carel-Logo-768x270.png" title="Carel Suite" alt="Carel Suite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
