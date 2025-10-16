@@ -8,7 +8,9 @@ It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pira
 
 &nbsp;&nbsp;&nbsp;&nbsp; 📚 Multiclassing in Mechatronic Engineering at Univerità degli Studi di Padova
 
-&nbsp;&nbsp;&nbsp;&nbsp; ⛓️ Dreaming a blockchained world, meanwhile I work for [HiRef](https://github.com/HiRefSPA)
+&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Working as Software Engineer for [HiRef](https://github.com/HiRefSPA)
+
+&nbsp;&nbsp;&nbsp;&nbsp; ⛓️ Dreaming a blockchained world
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🧙 Sci-fi and fantasy genre lover
 
