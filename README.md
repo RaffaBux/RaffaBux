@@ -1,8 +1,8 @@
-# Yo folk 🤙
+# Yo folks 🤙
 
-It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pirate", both are valid nicknames but if I were you I would choose Raffa for convenience 😎
+It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pirate"; both are valid nicknames but, if you wish, you can call me Raffa 😎
 
-## 🧐 To know me better
+## 🧐 Know me better
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduated in Computer Engineering at Univerità degli Studi di Padova
 
@@ -20,7 +20,7 @@ It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pira
 
 &nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), to save your time at the supermarket
 
-## 🛠️ Tools I worked with
+## 🛠️ Tools in my shed
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
