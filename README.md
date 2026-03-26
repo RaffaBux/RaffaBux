@@ -1,6 +1,6 @@
 # Yo folks 🤙
 
-It's Raffaele here! People call me either Raffa or "Blonde Emo Viking Ninja Pirate"; both are valid nicknames but, if you wish, you can call me Raffa 😎
+It's Raffaele here but you can call me Raffa 😁
 
 ## 🧐 Know me better
 
