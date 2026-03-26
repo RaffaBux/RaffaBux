@@ -1,6 +1,6 @@
 # Yo folks 🤙
 
-It's Raffaele here but you can call me Raffa 😁
+I have many names but you can call me Raffa 😁
 
 ## 🧐 Know me better
 
