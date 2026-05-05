@@ -1,8 +1,4 @@
-# Yo folks 🤙
-
-I have many names but you can call me Raffa 😁
-
-## 🧐 Know me better
+# Raffa's here!!! 😁
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduated in Computer Engineering at Univerità degli Studi di Padova
 
@@ -18,7 +14,7 @@ I have many names but you can call me Raffa 😁
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 Seeking my place in this World of Technologies!
 
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), to save your time at the supermarket
+&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), so save your time at the supermarket!
 
 ## 🛠️ Tools in my shed
 <div>
@@ -67,12 +63,12 @@ I have many names but you can call me Raffa 😁
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 </div>
 
-## 💻 Projects I'm proud of
+## 💻 Projects
 
-* [Vooler38](https://github.com/RaffaBux/Vigna38ValvesApp), my parents' winery self cooling system app
-* [Armtance](https://github.com/RaffaBux/Armtance), a possible blockchain application
+* [Vooler38](https://github.com/RaffaBux/Vigna38ValvesApp), a winery self cooling system desktop app
+* [Armtance](https://github.com/RaffaBux/Armtance), a web-based blockchain application
 
-## 👇 You can find me here
+## 👇 Text me here
 <div>
   <a href="https://github.com/RaffaBux" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
