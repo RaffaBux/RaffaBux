@@ -1,12 +1,16 @@
-# Raffa's here!!! 😁
+# Hi, folks! Raffa is here! 🤠
+
+## 🦒 About me
 
 &nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduated in Computer Engineering at Univerità degli Studi di Padova
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Working as Software (multiclassing Mechatronic) Engineer for [HiRef](https://github.com/HiRefSPA)
+&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Working as Software Designer & Mechatronic Engineer for [HiRef](https://github.com/HiRefSPA)
 
 &nbsp;&nbsp;&nbsp;&nbsp; ⛓️ Dreaming a blockchained world
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🧙 Sci-fi and fantasy genre lover
+&nbsp;&nbsp;&nbsp;&nbsp; 🍸 Senior spritz tester
+
+&nbsp;&nbsp;&nbsp;&nbsp; 🧙 Fantasy lover
 
 &nbsp;&nbsp;&nbsp;&nbsp; ⚔️ Soulslike enjoyer
 
@@ -14,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 Seeking my place in this World of Technologies!
 
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), so save your time at the supermarket!
+&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), so you can save your time at the supermarket!
 
 ## 🛠️ Tools in my shed
 <div>
@@ -65,13 +69,13 @@
 
 ## 💻 Projects
 
-* [Vooler38](https://github.com/RaffaBux/Vigna38ValvesApp), a winery self cooling system desktop app
+* [Vooler38](https://github.com/RaffaBux/Vigna38ValvesApp), a winery self-cooling system desktop app
 * [Armtance](https://github.com/RaffaBux/Armtance), a web-based blockchain application
 
-## 👇 Text me here
+## 👇 Contact me here
 <div>
-  <a href="https://github.com/RaffaBux" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <a href="mailto:bussolottoraffaele@gmail.com" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raffaele-bussolotto" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
