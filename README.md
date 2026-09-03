@@ -34,13 +34,13 @@
   <img src="https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-Free-Image.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
   <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/ganache.png" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/aVXJvUhDmmXnmpT0P_QhCVzGl8H7CceQpvK_LZuKlRNqQY_PotL3VAJg129svaVxIO0" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
