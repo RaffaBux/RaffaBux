@@ -18,29 +18,24 @@
   <h1>🛠️ Tools in my shed 🧰</h1>
   <p>
     <h4>Programming and Markdown languages</h4>
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,php,css,cpp,java,python,golang,julia,latex" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,php,css,cpp,java,python,golang,julia,latex" />
   </p>
   <p>
     <h4>Libraries and Frameworks</h4>
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expressjs,nextjs,nodejs,angular,spring,junit,cmake,qt,numpy,matplotlib" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expressjs,nextjs,nodejs,angular,spring,junit,cmake,qt,numpy,matplotlib" />
   </p>
   <p>
     <h4>Blockchain</h4>
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum,solidity,ganache,hardhat" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum,solidity,ganache,hardhat" />
   </p>
   <p>
     <h4>OS and Environments</h4>
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,arduino,raspberrypi" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,arduino,raspberrypi" />
     </a>
   </p>
   <p>
     <h4>Support Tools</h4>
-    <a href="https://go-skill-icons.netlify.app">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,maven,docker,excel,mysql,redis,mongodb,element,obs,figma,wordpress" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,maven,docker,excel,mysql,redis,mongodb,element,obs,figma,wordpress" />
   </p>
 </div>
 
