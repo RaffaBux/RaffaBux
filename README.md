@@ -1,81 +1,61 @@
-# Hi, folks! Raffa is here! 🤠
-
-## 🦒 About me
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🎓 Graduated in Computer Engineering at Univerità degli Studi di Padova
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🔧 Working as Software Designer & Mechatronic Engineer for [HiRef](https://github.com/HiRefSPA)
-
-&nbsp;&nbsp;&nbsp;&nbsp; ⛓️ Dreaming a blockchained world
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🍸 Senior spritz tester
-
-&nbsp;&nbsp;&nbsp;&nbsp; 🧙 Fantasy lover
-
-&nbsp;&nbsp;&nbsp;&nbsp; ⚔️ Soulslike enjoyer
-
-## ⌨️ Currently
-
-&nbsp;&nbsp;&nbsp;&nbsp; 👨🏼‍💻 Seeking my place in this World of Technologies!
-
-&nbsp;&nbsp;&nbsp;&nbsp; 📝 Working on [Spencer](https://github.com/RaffaBux/Spencer), so you can save your time at the supermarket!
-
-## 🛠️ Tools in my shed
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/12114/12114224.png" title="Cardano" alt="Cardano" width="40" height="40"/>&nbsp;
-  <img src="https://www.hatchcompany.ca/wp-content/uploads/2019/01/Carel-Logo-768x270.png" title="Carel Suite" alt="Carel Suite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://www.pngall.com/wp-content/uploads/10/Ethereum-Logo-PNG-Free-Image.png" title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
-  <img src="https://expolab.org/ecs189f-fall-2020/Projects/Promise/images/ganache.png" title="Ganache" alt="Ganache" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-  <img src="https://play-lh.googleusercontent.com/aVXJvUhDmmXnmpT0P_QhCVzGl8H7CceQpvK_LZuKlRNqQY_PotL3VAJg129svaVxIO0" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/metamask-2728406-2261817.png" title="MetaMask" alt="MetaMask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React (JS & Native)" alt="React (JS & Native)" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://kingstar.com/wp-content/uploads/2019/07/1280px-International_Electrotechnical_Commission_Logo.svg_.png" title="StructuredText" alt="StructuredText" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/web3js/web3js-plain.svg" title="Web3JS" alt="Web3JS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+<div align="center">
+  <h1>🤠 Hi, folks! Raffa is here! 🦒</h1>
+  <p>🎓 Graduated in <strong>Computer Engineering</strong> at <strong>Univerità degli Studi di Padova</strong> 📕</p>
+  <p>🔧 Working as <strong>Software Designer & Mechatronic Engineer</strong> for <strong><a href="https://github.com/HiRefSPA">HiRef S.p.A.</a></strong> ⚙️</p>
+  <p>⛓️ Dreaming a blockchained world 🤝</p>
+  <p>🍸 Senior spritz tester 🍷</p>
+  <p>🧙 Fantasy lover and MTG newbie 🃏</p>
+  <p>⚔️ Soulslike enjoyer 🛡️</p>
 </div>
 
-## 💻 Projects
+<div align="center">
+  <h1>⚡ Currently ⌨️</h1>
+  <p>👨🏼‍💻 Seeking my place in this Crazy World of Technologies 🔍</p>
+  <p>🛒 Working on <strong><a href="https://github.com/RaffaBux/Spencer">Spencer</a></strong>, so you can save your time at the supermarket! 📝</p>
+</div>
 
-* [Vooler38](https://github.com/RaffaBux/Vigna38ValvesApp), a winery self-cooling system desktop app
-* [Armtance](https://github.com/RaffaBux/Armtance), a web-based blockchain application
+<div align="center">
+  <h1>🛠️ Tools in my shed 🧰</h1>
+  <p>
+    <h4>Programming and Markdown languages</h4>
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=html,javascript,typescript,php,css,cpp,java,python,golang,julia,latex" />
+  </p>
+  <p>
+    <h4>Libraries and Frameworks</h4>
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expressjs,nextjs,nodejs,angular,spring,junit,cmake,qt,numpy,matplotlib" />
+  </p>
+  <p>
+    <h4>Blockchain</h4>
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ethereum,solidity,ganache,hardhat" />
+  </p>
+  <p>
+    <h4>OS and Environments</h4>
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,arduino,raspberrypi" />
+    </a>
+  </p>
+  <p>
+    <h4>Support Tools</h4>
+    <a href="https://go-skill-icons.netlify.app">
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=git,maven,docker,excel,mysql,redis,mongodb,element,obs,figma,wordpress" />
+  </p>
+</div>
 
-## 👇 Contact me here
-<div>
+<div align="center">
+  <h2>💻 Personal projects 💡</h2>
+  <p><strong><a href="https://github.com/RaffaBux/Vigna38ValvesApp">VOOLER38</a></strong><br />
+  🍇 A winery self-cooling system desktop app 🧊</p>
+  <p><strong><a href="https://github.com/RaffaBux/Armtance">ARMTANCE</a></strong><br />
+  🦾 A web-based blockchain application 🔗</p>
+</div>
+
+<div align="center">
+  <h1>👇 Text me here 👇</h1>
   <a href="mailto:bussolottoraffaele@gmail.com" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/raffaele-bussolotto" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
